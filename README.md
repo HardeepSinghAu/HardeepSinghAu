@@ -1,10 +1,11 @@
 ## 👋 Hi, I’m Hardeep
 
- 👀 I’m interested in all things coding, gardening and crypto, admittedly a novice in two of these areas
+ 💻 A Junior Software Engineer having completed a Higher Diploma of IT from Coder Academy 2022
  
- 🌱 I’m currently learning Web Development at the [Coder Academy](https://www.coderacademy.edu.au/) 
+ 🌱 An avid but amateur Gardener
  
- 📫 Lets [connect, collaborate and create.](https://www.linkedin.com/feed/)
+ 
+ 📫 Lets [connect](https://www.linkedin.com/in/hardeepksingh)
 
 <!---
 HardeepSinghAu/HardeepSinghAu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
